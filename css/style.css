@@ -1,5 +1,5 @@
 html {
-  background: #018DED url(http://unsplash.it/1500/1000?image=881&blur=5);
+  background: #000 url();
   background-size: cover;
   font-family: 'helvetica neue';
   text-align: center;
@@ -31,7 +31,7 @@ body {
     .clock .clock-face .hand {
       width: 50%;
       height: 6px;
-      background: black;
+      background: #2691d8;
       position: absolute;
       top: 50%;
       transform-origin: 100%;
